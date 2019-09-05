@@ -1,0 +1,7 @@
+git clone https://github.com
+git init
+git add Horodiskij.txt
+git commit -m "first commit"
+git add Horodiskij.txt
+git commit -m "second commit"
+git push
